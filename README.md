@@ -50,9 +50,21 @@ I am also interested in Data Analytics, Data Visualization and Business Intellig
 📈 Data Visualization  
 🧠 Problem Solving
 
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=2006ashutoshkumar-rgb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2006ashutoshkumar-rgb&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
 ---
 
-## 📊 GitHub Dashboard
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=2006ashutoshkumar-rgb&theme=tokyonight&hide_border=true" />
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2006ashutoshkumar-rgb&show_icons=true&theme=tokyonight)
 

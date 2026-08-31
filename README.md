@@ -16,20 +16,31 @@ I enjoy building projects, learning new technologies, and solving real-world pro
 
 I am also interested in Data Analytics, Data Visualization and Business Intelligence.
 
----
-
 ## 🛠️ Tech Stack
 
-- 💻 C
-- ☕ Java
-- 🐍 Python
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- 📊 Power BI
-- 🔧 Git & GitHub
+### 💻 Programming Languages
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python" />
+</p>
+
+### 🌐 Web Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
+### 📊 Data Analytics & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</p>
 
 ## 🚀 What I Do
 

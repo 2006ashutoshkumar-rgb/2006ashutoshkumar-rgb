@@ -1,21 +1,77 @@
+# 👋 Hi, I'm Ashutosh Kumar
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__roy__ashutosh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-kumar-a354b02) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@AshutoshKumar-fm8qm) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ashutosh Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2006ashutoshkumar@gmail.com) 
+### 💻 Software Developer | 🎓 B.Tech CSE 4th Year | 📊 Data Analytics Enthusiast
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=2006ashutoshkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=2006ashutoshkumar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=2006ashutoshkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Welcome to my GitHub profile! 🚀
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I am a B.Tech Computer Science & Engineering student and a Software Developer.
+I enjoy building projects, learning new technologies, and solving real-world problems.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=2006ashutoshkumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I am also interested in Data Analytics, Data Visualization and Business Intelligence.
 
 ---
-[![](https://komarev.com/ghpvc/?username=2006ashutoshkumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+- 💻 C
+- ☕ Java
+- 🐍 Python
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 📊 Power BI
+- 🔧 Git & GitHub
+
+---
+
+## 🚀 What I Do
+
+💻 Software Development  
+🌐 Web Development  
+📊 Data Analytics  
+📈 Data Visualization  
+🧠 Problem Solving
+
+---
+
+## 📊 GitHub Dashboard
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2006ashutoshkumar-rgb&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2006ashutoshkumar-rgb&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=2006ashutoshkumar-rgb&theme=tokyonight)
+
+---
+
+## 🚀 My Projects
+
+### 🛒 Amazon Clone
+E-commerce website created using HTML, CSS and JavaScript.
+
+### 🍕 Pizza Delivery Website
+Food delivery website with a modern web interface.
+
+### 📊 Data Analytics Dashboard
+Interactive dashboard created using Power BI.
+
+### 🌐 Personal Portfolio
+Personal developer portfolio using HTML, CSS and JavaScript.
+
+---
+
+## 📫 Connect With Me
+
+💻 GitHub: 2006ashutoshkumar-rgb  
+🔗 LinkedIn: ashutosh-kumar-a354b0296
+📧 Email: 2006ashutoshkumar@gmail.com
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+## 🚀 Keep Learning. Keep Building.

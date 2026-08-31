@@ -80,6 +80,43 @@ I am also interested in Data Analytics, Data Visualization and Business Intellig
 ---
 
 ## 📈 GitHub Contribution Activity
+---
+
+# 🚀 Featured Projects
+
+### 🛒 Amazon Clone
+**HTML | CSS | JavaScript**
+
+An e-commerce website inspired by Amazon with a clean and responsive user interface.
+
+🔗 [View Project](YOUR-AMAZON-REPOSITORY-LINK)
+
+---
+
+### 🍕 Pizza Delivery Website
+**HTML | CSS | JavaScript**
+
+A modern pizza delivery website with an attractive interface and responsive design.
+
+🔗 [View Project](YOUR-PIZZA-REPOSITORY-LINK)
+
+---
+
+### 🌐 Personal Portfolio Website
+**HTML | CSS | JavaScript**
+
+A personal portfolio website to showcase my skills, projects and developer journey.
+
+🔗 [View Project](YOUR-PORTFOLIO-REPOSITORY-LINK)
+
+---
+
+### 📊 Power BI Data Analytics Dashboard
+**Power BI | Data Analytics | Data Visualization**
+
+An interactive dashboard designed to analyze data and present useful business insights.
+
+🔗 [View Dashboard](YOUR-POWERBI-REPOSITORY-LINK)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=2006ashutoshkumar-rgb&theme=tokyo-night&hide_border=true" width="100%"/>

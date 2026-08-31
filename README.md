@@ -77,6 +77,13 @@ I am also interested in Data Analytics, Data Visualization and Business Intellig
 ![GitHub Streak](https://streak-stats.demolab.com?user=2006ashutoshkumar-rgb&theme=tokyonight)
 
 ---
+---
+
+## 📈 GitHub Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2006ashutoshkumar-rgb&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
 
 ## 🚀 My Projects
 

@@ -83,6 +83,35 @@ I am also interested in Data Analytics, Data Visualization and Business Intellig
 ---
 
 # 🚀 Featured Projects
+---
+
+# 📊 Data Analytics
+
+I am interested in **Data Analytics, Data Visualization and Business Intelligence**.
+
+### 🔍 Skills I'm Building
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### 📈 Areas of Interest
+
+- 📊 Data Analysis
+- 📈 Data Visualization
+- 📋 Business Intelligence
+- 🧹 Data Cleaning
+- 📊 Dashboard Development
+- 🐍 Python for Data Analysis
+- 🗄️ SQL
+- ⚡ Power BI
 
 ### 🛒 Amazon Clone
 **HTML | CSS | JavaScript**

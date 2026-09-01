@@ -86,6 +86,47 @@ I am also interested in Data Analytics, Data Visualization and Business Intellig
 ---
 
 # 📊 Data Analytics
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/2006ashutoshkumar-rgb">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="ashutosh-kumar-a354b0296">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:2006ashutoshkumar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in discussing:
+
+💻 Software Development  
+📊 Data Analytics  
+🌐 Web Development  
+🚀 New Projects  
+🤝 Collaboration & Opportunities
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my GitHub profile!
+
+### 🚀 Keep Learning • Keep Building • Keep Growing
+
+</p>
 
 I am interested in **Data Analytics, Data Visualization and Business Intelligence**.
 

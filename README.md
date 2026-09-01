@@ -87,7 +87,13 @@ I am also interested in Data Analytics, Data Visualization and Business Intellig
 
 # 📊 Data Analytics
 ---
+---
 
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=2006ashutoshkumar-rgb&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 # 📫 Connect With Me
 
 <p align="center">
